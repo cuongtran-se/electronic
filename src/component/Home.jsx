@@ -5,20 +5,20 @@ export const Home = () => {
   return (
     <>
       <Helmet>
-        <title>Thi công trạm biến áp Bình Thuận - Trung Hưng</title>
+        <title>Thi công trạm biến áp Bình Thuận - TQC</title>
         <meta
           name="description"
-          content="Harmon là dịch vụ thi công trạm biến áp, hệ thống điện trung thế tại Bình Thuận, do công ty Trung Hưng thực hiện với uy tín và chuyên nghiệp."
+          content="Harmon là dịch vụ thi công trạm biến áp, hệ thống điện trung thế tại Bình Thuận, do công ty TQC thực hiện với uy tín và chuyên nghiệp."
         />
         <meta
           name="keywords"
-          content="thi công trạm biến áp, điện trung thế, máy biến áp, electronic, hệ thống chiếu sáng, điện công nghiệp, Harmon, Trung Hưng"
+          content="thi công trạm biến áp, điện trung thế, máy biến áp, electronic, hệ thống chiếu sáng, điện công nghiệp, Harmon, TQC"
         />
 
         <meta property="og:title" content="Trạm biến áp Bình Thuận - Thi công chuyên nghiệp" />
         <meta
           property="og:description"
-          content="Harmon là dịch vụ thi công trạm biến áp, hệ thống điện trung thế tại Bình Thuận. Được thực hiện bởi công ty Trung Hưng chuyên nghiệp, uy tín."
+          content="Harmon là dịch vụ thi công trạm biến áp, hệ thống điện trung thế tại Bình Thuận. Được thực hiện bởi công ty TQC chuyên nghiệp, uy tín."
         />
         <meta property="og:image" content="https://harmon.love/image/h5-533x400.jpg" />
         <meta property="og:url" content="https://harmon.love" />
