@@ -2,6 +2,18 @@ import React from 'react'
 
 export const Home = () => {
   return (
+    <>
+    <Helmet>
+        <title>Thi công trạm biến áp Bình Thuận - Trung Hưng</title>
+        <meta name="description" content="Công ty Trung Hưng chuyên tư vấn, thiết kế và thi công lắp đặt trạm biến áp, hệ thống điện trung hạ thế, chiếu sáng tại Bình Thuận." />
+        <meta name="keywords" content="thi công trạm biến áp, điện trung thế, máy biến áp, electronic, hệ thống chiếu sáng, điện công nghiệp" />
+
+        <meta property="og:title" content="Trạm biến áp Bình Thuận - Thi công chuyên nghiệp" />
+        <meta property="og:description" content="Trung Hưng chuyên lắp đặt trạm điện, chiếu sáng công cộng, thi công điện trung thế chất lượng cao." />
+        <meta property="og:image" content="https://landing.hangout.com.vn/image/h5-533x400.jpg" />
+        <meta property="og:url" content="https://landing.hangout.com.vn" />
+        <meta property="og:type" content="website" />
+      </Helmet>
     <div className="min-h-screen flex flex-col justify-center items-center bg-gray-100 p-4">
       <div className="container mx-auto max-w-5xl text-gray-500">
         <div className="py-10">
@@ -26,5 +38,6 @@ export const Home = () => {
         </div>
       </div>
     </div>
+    </>
   )
 }
