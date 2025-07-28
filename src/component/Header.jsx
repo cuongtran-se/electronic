@@ -8,16 +8,16 @@ export const Header = () => {
         {/* Phần bên trái: Logo và thông tin công ty */}
         <div className="flex items-center mb-4 md:mb-0">
           <img
-            src="/image/z3796584365493_42e2992c56478c82aea77dc4634e58d0.jpg" // Đảm bảo đường dẫn này chính xác
-            alt="Trung Hưng Logo"
-            className="h-16 sm:h-20 w-auto mr-3 sm:mr-4" // Kích thước logo thay đổi theo màn hình
+            src="/image/hinh5.jpg" // Đảm bảo đường dẫn này chính xác
+            alt="Lắp điện logo"
+            className="h-16 sm:h-20 w-auto mr-3 sm:mr-4 rounded-full" // Kích thước logo thay đổi theo màn hình
           />
           <div className="text-center md:text-left">
             <h1 className="text-red-700 font-bold text-lg sm:text-xl md:text-2xl uppercase tracking-wide">
-              CÔNG TY TNHH XÂY LẮP ĐIỆN TRUNG HƯNG
+              Dịch Vụ Xây Lắp Điện Lâm Đồng Mới
             </h1>
             <p className="text-black text-xs sm:text-sm mt-1">
-              56 đường Nguyễn Văn Linh, Phường Xuân An, Thành Phố Phan Thiết
+              Phường Bình Thuận – Tỉnh Lâm Đồng
             </p>
           </div>
         </div>
@@ -36,7 +36,7 @@ export const Header = () => {
           />
           <div className="ml-2">
             <p className="text-red-700 font-bold text-xl sm:text-2xl md:text-3xl tracking-wider">
-              0917 985 170
+              0969.219.209
             </p>
           </div>
         </div>
