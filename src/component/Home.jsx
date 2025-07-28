@@ -23,7 +23,7 @@ export const Home = () => {
           property="og:description"
           content="Dịch Vụ Xây Lắp Điện Lâm Đồng Mới là dịch vụ thi công trạm biến áp, hệ thống điện trung thế tại Bình Thuận. Được thực hiện chuyên nghiệp, uy tín."
         />
-        <meta property="og:image" content="https://harmon.love/image/h5-533x400.jpg" />
+        <meta property="og:image" content="https://harmon.love/image/hinh5.jpg" />
         <meta property="og:url" content="https://harmon.love" />
         <meta property="og:type" content="website" />
       </Helmet>
