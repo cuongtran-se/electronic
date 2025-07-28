@@ -5,20 +5,23 @@ export const Home = () => {
   return (
     <>
       <Helmet>
-        <title>Thi công trạm biến áp Bình Thuận - TQC</title>
+        <title>Dịch Vụ Xây Lắp Điện Lâm Đồng Mới</title>
         <meta
           name="description"
-          content="Harmon là dịch vụ thi công trạm biến áp, hệ thống điện trung thế tại Bình Thuận, do công ty TQC thực hiện với uy tín và chuyên nghiệp."
+          content="Dịch Vụ Xây Lắp Điện Lâm Đồng Mới là dịch vụ thi công trạm biến áp, hệ thống điện trung thế tại Bình Thuận. Được thực hiện chuyên nghiệp, uy tín."
         />
         <meta
           name="keywords"
-          content="thi công trạm biến áp, điện trung thế, máy biến áp, electronic, hệ thống chiếu sáng, điện công nghiệp, Harmon, TQC"
+          content="thi công trạm biến áp, điện trung thế, máy biến áp, electronic, hệ thống chiếu sáng, điện công nghiệp, Harmon, trạm biến áp Bình Thuận,
+          trạm biến áp Phan Thiết, thi công điện Bình Thuận, dịch vụ điện, trạm biến áp Đắk Nông, trạm biến áp Lâm Đồng, thi công trạm biến áp Bình Thuận, 
+          thi công trạm biến áp Phan Thiết, thi công điện Bình Thuận, dịch vụ điện, thi công trạm biến áp Đắk Nông, thi công trạm biến áp Lâm Đồng,
+          dịch vụ xây lắp điện Lâm Đồng mới, dịch vụ xây lắp điện Bình Thuận, dịch vụ xây lắp điện Đắk Nông, dịch vụ xây lắp điện Lâm Đồng"
         />
 
         <meta property="og:title" content="Trạm biến áp Bình Thuận - Thi công chuyên nghiệp" />
         <meta
           property="og:description"
-          content="Harmon là dịch vụ thi công trạm biến áp, hệ thống điện trung thế tại Bình Thuận. Được thực hiện bởi công ty TQC chuyên nghiệp, uy tín."
+          content="Dịch Vụ Xây Lắp Điện Lâm Đồng Mới là dịch vụ thi công trạm biến áp, hệ thống điện trung thế tại Bình Thuận. Được thực hiện chuyên nghiệp, uy tín."
         />
         <meta property="og:image" content="https://harmon.love/image/h5-533x400.jpg" />
         <meta property="og:url" content="https://harmon.love" />
