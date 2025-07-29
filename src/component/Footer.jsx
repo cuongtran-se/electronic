@@ -25,25 +25,27 @@ export const Footer = () => {
           </ul>
         </div>
 
-        {/* <div className='flex flex-col gap-4'>
+        <div className='flex flex-col gap-4'>
             <div className='text-lg font-semibold'>FANPAGE</div>
             <div className='h-0.5 w-10 bg-gray-500'/>
-          <div className="overflow-hidden rounded-md">
-            <iframe 
-                src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ffacebook&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" 
-                width="100%" 
-                height="214" 
-                style={{ border: 'none', overflow: 'hidden' }}
-                scrolling="no" 
-                frameBorder="0" 
-                allowFullScreen={true} 
-                allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share">
-              </iframe>
-          </div>
-        </div> */}
+          <div className="overflow-hidden rounded-md w-full max-w-md mx-auto">
+              <a
+                href="https://www.facebook.com/start.blue.98"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <img
+                  src="/image/h2.jpg"
+                  alt="Link to Facebook Profile"
+                  className="w-full h-auto object-cover rounded-lg hover:opacity-80 transition-opacity duration-300"
+                  loading="lazy"
+                />
+              </a>
+</div>
+        </div>
 
         {/* Cột 3: Đường đi */}
-        <div className='flex flex-col gap-4'>
+        {/* <div className='flex flex-col gap-4'>
             <div className='text-lg font-semibold uppercase'>Đường đi</div>
             <div className='h-0.5 w-10 bg-gray-500'/>
           <div className="overflow-hidden rounded-md">
@@ -57,7 +59,7 @@ export const Footer = () => {
               referrerPolicy="no-referrer-when-downgrade"
             ></iframe>
           </div>
-        </div>
+        </div> */}
       </div>
     </footer>
   )

@@ -32,7 +32,7 @@ export const Home = () => {
         <div className="container mx-auto max-w-5xl text-gray-500">
           <div className="py-10">
             <div className="text-3xl text-black ">Dịch Vụ Xây Lắp Điện Lâm Đồng Mới ( 3 Tỉnh : Lâm Đồng , Bình Thuận , Đắk Nông )</div>
-            <p className="text-base mt-4"><span className="font-bold text-black">Dịch Vụ Xây Lắp Điện Lâm Đồng Mới</span> có nhiều năm kinh nghiệm trong lĩnh vực Tư vấn giải pháp, Thi công lắp đặt hệ thống điện, trạm điện, hệ thống chiếu sáng, máy biến áp, và các sản phẩm liên quan trong ngành điện</p>
+            <p className="text-base mt-4"><span className="font-bold text-black">Dịch Vụ Xây Lắp Điện Lâm Đồng Mới có nhiều năm kinh nghiệm trong lĩnh vực Tư vấn giải pháp, Thi công lắp đặt hệ thống điện, trạm điện, hệ thống chiếu sáng, máy biến áp, và các sản phẩm liên quan trong ngành điện</span></p>
            <div className="flex flex-col sm:flex-row justify-center items-center my-5 gap-2 sm:gap-4">
               <img src="/image/hinh1.jpg" alt="Trạm biến áp tại Bình Thuận" className="w-100 h-100 object-cover rounded-lg" />
               <img src="/image/hinh2.jpg" alt="Trạm biến áp tại Bình Thuận" className="w-100 h-100 object-cover rounded-lg" />
@@ -61,8 +61,9 @@ export const Home = () => {
             <p className="text-base font-bold text-black">✓ Luôn hỗ trợ nhiệt tình những khó khăn và thắc mắc của quí khách hàng.</p>
             <p className="text-base font-bold text-black">✓ Giá luôn cạnh tranh mang lại hiệu quả kinh tế cao nhất cho chủ đầu tư.</p> */}
             <p className="text-base font-bold text-black underline">Tiêu Chí của Chúng tôi:</p>
-            <p className="text-base  text-black">Nhanh , Uy tín , đảm bảo chất lượng và tư vấn và giải quyết nhu cầu của khách hàng là quan trọng nhất.</p>
-            <p className="text-base  text-black">Chúng Tôi có nhiều năm kinh nghiệm trong lĩnh vực Tư vấn giải pháp, Thi công lắp đặt hệ thống điện, trạm điện, hệ thống chiếu sáng, máy biến áp, và các sản phẩm liên quan trong ngành điện.</p>
+            <p className="text-base  text-black">Nhanh Chóng , Uy tín , đảm bảo chất lượng và tư vấn và giải quyết nhu cầu của khách hàng là quan trọng nhất.</p>
+            <p className="text-base  text-black">Nếu anh/chị cần thêm thông tin hoặc có bất kỳ câu hỏi nào, xin vui lòng liên hệ với chúng tôi. Chúng tôi rất sẵn lòng giải đáp mọi thắc mắc của anh/chị.</p>
+            <p className="text-base  text-black">Xin cám ơn .</p>
             {/* <p className="text-gray-500 mt-4">Chúng tôi có nhiều năm kinh nghiệm trong lĩnh vực Tư vấn Thiết Kế, Thi công lắp đặt hệ thống điện, Trạm điện , Trạm biến áp,Trụ điện , Nhà xưởng , Kim thu Sét ,…</p>
             <p className="text-gray-500">Tiêu chí: Nhanh , Uy tín , chất lượng và giải quyết nhu cầu của khách hàng là quan trọng nhất .</p> */}
           </div>
