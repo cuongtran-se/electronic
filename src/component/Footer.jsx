@@ -2,9 +2,9 @@ import React from 'react'
 
 export const Footer = () => {
     const contactInfo = [
-    { icon: '📌', text: 'Lâm Đồng Mới' },
-    { icon: '👍', text: 'Xây lắp điện Bình Thuận' },
-    { icon: '👍', text: 'Địa chỉ: Phường Bình Thuận – Tỉnh Lâm Đồng .' },
+    { icon: '📌', text: ' Lâm Đồng Mới ( 3 Tỉnh : Lâm Đồng , Bình Thuận , Đắk Nông )' },
+    { icon: '👍', text: 'Dịch Vụ Xây lắp Điện Lâm Đồng Mới' },
+    { icon: '👍', text: 'Địa chỉ: Phường Bình Thuận – Tỉnh Lâm Đồng' },
     { icon: '👍', text: 'Điện thoại: 0969.219.209' },
   ];
   return (
