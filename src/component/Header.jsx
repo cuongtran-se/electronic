@@ -14,7 +14,7 @@ export const Header = () => {
           />
           <div className="text-center md:text-left">
             <h1 className="text-red-700 font-bold text-lg sm:text-xl md:text-2xl uppercase tracking-wide">
-              Dịch Vụ Xây Lắp Điện Lâm Đồng Mới
+              Dịch Vụ Xây Lắp Điện Tỉnh Lâm Đồng Mới
             </h1>
             <p className="text-black text-xs sm:text-sm mt-1">
               Phường Bình Thuận – Tỉnh Lâm Đồng
