@@ -61,7 +61,7 @@ export const Home = () => {
             <p className="text-base font-bold text-black">✓ Luôn hỗ trợ nhiệt tình những khó khăn và thắc mắc của quí khách hàng.</p>
             <p className="text-base font-bold text-black">✓ Giá luôn cạnh tranh mang lại hiệu quả kinh tế cao nhất cho chủ đầu tư.</p> */}
             <p className="text-base font-bold text-black underline">Tiêu Chí của Chúng tôi:</p>
-            <p className="text-base  text-black">Nhanh Chóng , Uy tín , đảm bảo chất lượng và tư vấn và giải quyết nhu cầu của khách hàng là quan trọng nhất.</p>
+            <p className="text-base  text-black">Nhanh Chóng , Uy tín , đảm bảo chất lượng, tư vấn và giải quyết nhu cầu của khách hàng là quan trọng nhất.</p>
             <p className="text-base  text-black">Nếu anh/chị cần thêm thông tin hoặc có bất kỳ câu hỏi nào, xin vui lòng liên hệ với chúng tôi. Chúng tôi rất sẵn lòng giải đáp mọi thắc mắc của anh/chị.</p>
             <p className="text-base  text-black">Xin cám ơn .</p>
             {/* <p className="text-gray-500 mt-4">Chúng tôi có nhiều năm kinh nghiệm trong lĩnh vực Tư vấn Thiết Kế, Thi công lắp đặt hệ thống điện, Trạm điện , Trạm biến áp,Trụ điện , Nhà xưởng , Kim thu Sét ,…</p>
