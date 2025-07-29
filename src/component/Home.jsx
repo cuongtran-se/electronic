@@ -31,7 +31,7 @@ export const Home = () => {
       <div className="min-h-screen flex flex-col justify-center items-center bg-gray-100 p-4">
         <div className="container mx-auto max-w-5xl text-gray-500">
           <div className="py-10">
-            <div className="text-3xl text-black ">Dịch Vụ Xây Lắp Điện Tỉnh Lâm Đồng Mới Bao Gồm 3 Tỉnh : Lâm Đồng , Bình Thuận , Đắk Nông</div>
+            <div className="text-3xl text-black ">Dịch Vụ Xây Lắp Điện Tỉnh Lâm Đồng Mới ( Bao Gồm 3 Tỉnh : Lâm Đồng , Bình Thuận , Đắk Nông )</div>
             <p className="text-base mt-4"><span className="font-bold text-black">Dịch Vụ Xây Lắp Điện Tỉnh Lâm Đồng Mới có nhiều năm kinh nghiệm trong lĩnh vực Tư vấn giải pháp, Thi công lắp đặt hệ thống điện, trạm điện, hệ thống chiếu sáng, máy biến áp, và các sản phẩm liên quan trong ngành điện</span></p>
            <div className="flex flex-col sm:flex-row justify-center items-center my-5 gap-2 sm:gap-4">
               <img src="/image/hinh1.jpg" alt="Trạm biến áp tại Bình Thuận" className="w-100 h-100 object-cover rounded-lg" />
